@@ -1,0 +1,5 @@
+matplotlib==3.2.2
+pymc3==3.9.2
+tensorflow==1.14.0
+git+git://github.com/google-research/data-driven-pdes@74fdd89
+git+https://github.com/google/data-driven-discretization-1d.git@a37047b
