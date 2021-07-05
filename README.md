@@ -40,6 +40,8 @@ cd rule-based-bayesian-regression/burgers-2d
 ./run_sampling.py
 ```
 
+The data for these two examples are derived from [1](https://www.pnas.org/content/116/31/15344).
+
 ## Anticipated run time
 The scripts were run with a MacBook Pro (2008): 2.9 GHz 6-Core Intel Core i9, 32 GB 2400 MHz DDR4
 ```shell
