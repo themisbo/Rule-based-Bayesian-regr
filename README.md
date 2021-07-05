@@ -19,7 +19,7 @@ Pre-requisites:
 Install dependencies:
 
 ```shell
-git clone https://github.com/alan-turing-institute/rule-based-bayesian-regression.git
+git clone https://github.com/themisbo/Rule-based-Bayesian-regr.git
 cd rule-based-bayesian-regression
 pip install -r requirements.txt
 ```
@@ -52,3 +52,7 @@ burgers-2d with rules ~ 11 minutes
 ## References
 
 [1] Bar-Sinai, Y., Hoyer, S., Hickey, J., & Brenner, M. P. (2019). Learning data-driven discretizations for partial differential equations. _Proceedings of the National Academy of Sciences_, _116_(31), 15344-15349.
+
+
+## Citation
+If you use this work or build up on it, please cite https://arxiv.org/abs/2008.00422.
