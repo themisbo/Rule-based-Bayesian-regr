@@ -1,4 +1,4 @@
-# Rule-based-Bayesian-regr
+# Rule based Bayesian regression
 Code associated with the paper "Rule-based Bayesian regression"
 
 # One-dimensional analysis
