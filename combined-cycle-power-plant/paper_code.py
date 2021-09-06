@@ -207,7 +207,7 @@ with pm.Model() as model:
 
     b_lat = pm.Normal("intercept_lat", 0, 16.0, testval=0.0)
 
-    res = AT_co * AT_val + b
+    res = AT_co * AT_val + V_co * V_val + AP_co * AP_val + RH_co * RH_val + b
 
     # predictions
     obs = pm.Normal("observation", res, s, observed=PE_val,)
