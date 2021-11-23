@@ -51,6 +51,9 @@ burgers-2d without rules ~ 11 minutes
 burgers-2d with rules ~ 11 minutes
 ```
 
+## Supplementary material
+Supplementary material for the paper is included in [this folder](supplementary_material/).
+
 ## References
 
 [1] Bar-Sinai, Y., Hoyer, S., Hickey, J., & Brenner, M. P. (2019). Learning data-driven discretizations for partial differential equations. _Proceedings of the National Academy of Sciences_, _116_(31), 15344-15349.
